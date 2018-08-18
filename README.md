@@ -6,8 +6,8 @@
   * [印度佛学概要](201808/20180803_MuXing_IndiaBuddhism.md)
 
 * 佑佑他爸
-  * [大转向——三民主义的源流简述](201808/20180804_YYTB_SMZY.md)
-  * [科技之光与人文之美](201808/20180816_yytb_scienceliterature.md)
+  * [大转向——三民主义的源流简述](201808/20180804_YYTB_SMZY.md)★
+  * [科技之光与人文之美](201808/20180816_yytb_scienceliterature.md)★
 * 在路上
   * [我对历史真实性的理解](201808/20180804_ZaiLuSang_Wdlszsxdlj.md)
   * [我对轴心文明大历史观的理解](201808/20180806_ZailuSang_Wdzxwmdlsg.md)
